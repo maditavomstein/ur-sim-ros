@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.3)
 
-project(urdf_UR20_MvS)
+project(urdf_ur20_mvs)
 
 find_package(catkin REQUIRED)
 
