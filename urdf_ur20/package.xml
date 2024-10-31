@@ -1,10 +1,10 @@
 <package format="2">
-  <name>urdf_UR20_MvS</name>
+  <name>urdf_ur20_mvs</name>
   <version>1.0.0</version>
   <description>
-    <p>URDF Description package for urdf_UR20_MvS</p>
+    <p>URDF Description package for urdf_ur20_mvs</p>
     <p>This package contains configuration data, 3D models and launch files
-for urdf_UR20_MvS robot</p>
+for urdf_ur20_mvs robot</p>
   </description>
   <author>TODO</author>
   <maintainer email="TODO@email.com" />
